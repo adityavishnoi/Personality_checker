@@ -201,3 +201,5 @@ This application is intended for **educational and demonstration purposes**. Per
 **Aditya Vishnoi**
 
 Built with Python, Scikit-learn and Streamlit. 🧠
+
+Live Link- https://personalitychecker-tyhabspveptbbljkvatf6k.streamlit.app/
